@@ -1,0 +1,4 @@
+keyboard==0.13.5
+pygame==2.6.1
+pystray==-0.19.5
+pyinstaller==6.21.0
